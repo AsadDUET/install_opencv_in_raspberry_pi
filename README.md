@@ -1,6 +1,7 @@
 # install_opencv_in_raspberry_pi
-## This Wheel file is compiled for (may be) and tested with Raspbian Stretch(2018-11-13) with Python3.5
-pip3 install opencv_python-3.4.4.19-cp35-cp35m-linux_armv7l.whl
+## This Wheel file is compiled for (may be) and tested with Raspbian Stretch(2018-11-13) with Python3.5. Got From https://www.piwheels.org/project/opencv-python/
+
+pip3 install opencv_python-3.4.4.19-cp35-cp35m-linux_armv7l.whl 
 
 sudo apt-get install libatlas-base-dev
 
